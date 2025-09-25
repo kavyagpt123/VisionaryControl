@@ -67,7 +67,6 @@ Interface After Login Using Face Based Authentication for Presenting the Slides
 ☝️ (Index finger): Next slide   
 
 
-![image](https://github.com/user-attachments/assets/afe04844-430d-4ea6-9d09-d3e15e94063f)
 
 
 
